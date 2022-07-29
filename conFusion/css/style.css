@@ -1,28 +1,30 @@
-.row-header{
+.row-header {
     margin: 0px auto;
     padding: 0px auto;
 }
 
-.row-content{
+.row-content {
     margin: 0px auto;
     padding: 50px 0px 50px 0px;
     border-bottom: 1px ridge;
     min-height: 400px;
 }
 
-.footer{
+.footer {
     background-color: #c1a3dc;
     margin: 0px auto;
     padding: 20px 0px 20px 0px;
 }
 
-.jumbotrons{
+.jumbotron {
     padding: 70px 30px 70px 30px;
+    border-radius: 4px;
     margin: 0px auto;
     background: #9e71c5;
     color: white;
 }
-.address{
+
+.address {
     font-size: 80%;
     margin: 0px;
     color: #0f0f0f;
